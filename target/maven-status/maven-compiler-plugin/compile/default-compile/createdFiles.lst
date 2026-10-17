@@ -1,0 +1,17 @@
+model\FlyingAnimals.class
+controller\TheZooManager.class
+model\FlySwimAnimals.class
+utils\Utils.class
+utils\Validates.class
+model\Animal.class
+view\MenuView.class
+model\WalkSwimAnimals.class
+model\Swimmable.class
+model\SwimmingAnimals.class
+main\Main.class
+model\TriathlonAnimals.class
+model\Flyable.class
+model\Walkable.class
+model\WalkFlyAnimals.class
+model\WalkingAnimals.class
+view\TheZooIOHandler.class
